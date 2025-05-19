@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: black; 
+   text-align: center;
+}
+.container h1{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+   padding-top: 30px;
+ 
+}
+.container a{
+    color: aquamarine;
+    font-size: 16px;
+   margin-top: 30px;
+}
+#header-text{
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+}
+.container p{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+.footer p{
+    text-align: right;
+}
